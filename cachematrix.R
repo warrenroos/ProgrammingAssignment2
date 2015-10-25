@@ -1,5 +1,8 @@
-## Put comments here that give an overall description of what your
+## Add Comments here that give an overall description of what your
 ## functions do
+## 
+## these functions allow you to mimic "storing state" of variables so that you 
+## refer to the variables the next time the function is called 
 
 ## Write a short comment describing this function
 ##   
@@ -11,7 +14,7 @@ makeCacheMatrix <- function(x = matrix()) {
   # some comments relate to conceptually translating this to their OO counterparts 
   
   # initialize 
-  m <- NULL
+  m <- NULL 
   
   # define 4 "properties" of this "object" 
   # here each "property" is a "function" 
